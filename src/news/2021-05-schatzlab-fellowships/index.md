@@ -17,24 +17,24 @@ But GCC2021 is only an excellent opportunity if you are able to participate.  *T
 Fellowship applications are open until May 24.  If you are a student or post-doc working in data-intensive science then you are strongly encouraged to apply.  The application is brief.
 
 <div class="text-center">
-<br />
-<a href="https://schatz-lab.org/"><img src="/src/images/logos/schatz-lab.png" class="img-fluid" alt="Michael Schatz Lab" /></a>
-</div>
-
-# About the Schatz Lab
-
-The [Schatz Lab](https://schatz-lab.org/) focuses on understanding the structure and function of genomes, especially those of medical or agricultural importance. Their core goal is to develop novel algorithms and computational systems for large-scale biological sequence analysis, including leading algorithms for de novo genome assembly, variant detection, and related –omics assays.
-
-Michael Schatz is a Bloomberg Distinguished Associate Professor of Computer Science and Biology at Johns Hopkins.  In 2020 Mike became a Galaxy Project PI when he stepped into the void left by [James Taylor's unexpected passing](/src/jxtx/indes.md).  Mike is also a project lead for [AnVIL](https://anvilproject.org/), a large NHGRI-funded effort in which Galaxy is a key component.
-
-<div class="text-center">
 <button type="button" class="btn btn-secondary" style="font-size: x-large; font-weight: 600;">
 
 [Apply now](https://docs.google.com/forms/d/e/1FAIpQLSd8UMYn276Y92M1I7Sqxh4gCjBkGlSkCCSrEhawY3yb54I1Uw/viewform)
 
 </button>
-
-</div><br />
+<br /><br />
+</div>
 
 *Note: These fellowships complement the [conference fellowships offered by the Galaxy Community Fund Board](/src/news/2021-04-gcc-fellowships/index.md).  Those fellowships are limited to researchers in developing economies.*
 
+
+# About the Schatz Lab
+
+<div class="text-center">
+<a href="https://schatz-lab.org/"><img src="/src/images/logos/schatz-lab.png" class="img-fluid" alt="Michael Schatz Lab" /></a>
+<br /><br />
+</div>
+
+The [Schatz Lab](https://schatz-lab.org/) focuses on understanding the structure and function of genomes, especially those of medical or agricultural importance. Their core goal is to develop novel algorithms and computational systems for large-scale biological sequence analysis, including leading algorithms for de novo genome assembly, variant detection, and related –omics assays.
+
+Michael Schatz is a Bloomberg Distinguished Associate Professor of Computer Science and Biology at Johns Hopkins.  In 2020 Mike became a Galaxy Project PI when he stepped into the void left by [James Taylor's unexpected passing](/src/jxtx/indes.md).  Mike is also a project lead for [AnVIL](https://anvilproject.org/), a large NHGRI-funded effort in which Galaxy is a key component.
